@@ -1,0 +1,12 @@
+body {
+    background-color: darkslategray;
+  }
+  h1 {
+    color: rgb(131, 127, 255);
+  }
+  p {
+    color: lightcoral;
+    font-size: medium;
+    font-style:oblique;
+  }
+  
